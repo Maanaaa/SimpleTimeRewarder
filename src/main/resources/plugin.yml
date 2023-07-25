@@ -1,0 +1,6 @@
+name: SimpleTimeRewarder
+version: '${project.version}'
+main: fr.mana.simpletimerewarder.SimpleTimeRewarder
+api-version: '1.20'
+authors: [Mana]
+description: A simple minecraft plugin who reward players every x time
